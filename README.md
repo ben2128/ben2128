@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ben2128
 - 👀 I’m interested in web development, databases, AI, machine learning
-- 🌱 I’m currently learning Python, PostgreSQL
-- 💞️ I’m looking to collaborate on projects for fun and for my portfolio
+- 🌱 I’m currently learning Python, PostgreSQL, HTML, CSS, and Javascript
+- 💞️ I’m looking to collaborate on projects for fun and for my portfolio, and looking for employment connections
 - 📫 You can reach me at ben.horn2128@gmail.com
 
 <!---
