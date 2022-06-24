@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ben2128
-- 👀 I’m interested in embedded systems <3, assembly languages, AI, machine learning
+- 👀 I’m interested in embedded systems, assembly languages, AI, machine learning
 - 🌱 I’m currently learning Python, C++, C, Assembly
-- 💞️ I’m looking to collaborate on projects for fun and for my portfolio, and looking for employment connections
+- 💞️ I’m looking to collaborate on projects for fun and looking for employment connections
 - 📫 You can reach me at ben.horn2128@gmail.com
 
 <!---
